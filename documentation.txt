@@ -1,0 +1,29 @@
+SYSTEM DOCUMENTATION
+
+Project Name: AI Resume Screening Tool
+
+Input:
+- Resume files
+- Job description
+
+Processing:
+- Text extraction
+- Data cleaning
+- NLP preprocessing
+- Feature extraction
+- Similarity matching
+
+Output:
+- Resume score
+- Candidate ranking
+- Matching percentage
+
+Benefits:
+- Faster recruitment
+- Reduced manual effort
+- Better candidate filtering
+
+Limitations:
+- Depends on resume quality
+- Limited understanding of complex profiles
+

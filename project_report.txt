@@ -1,0 +1,35 @@
+PROJECT TITLE: AI Resume Screening Tool
+
+ABSTRACT:
+The AI Resume Screening Tool is designed to automate the recruitment process using Artificial Intelligence and Machine Learning. The system analyzes resumes and compares them with job descriptions to identify suitable candidates.
+
+OBJECTIVES:
+
+Automate resume screening.
+Improve recruitment efficiency.
+Reduce human effort.
+Increase candidate selection accuracy.
+
+TOOLS USED
+
+:Python
+:Pandas
+:NumPy
+:Scikit-learn
+:Streamlit
+
+METHODOLOGY
+
+:Data Collection
+:Resume Parsing
+:Text Cleaning
+:Feature Extraction
+:Similarity Matching
+:Candidate Ranking
+
+RESULT:
+The system successfully identifies and ranks candidates based on their relevance to the job requirements.
+
+CONCLUSION:
+AI-based resume screening improves hiring efficiency and helps recruiters make faster decisions.
+
